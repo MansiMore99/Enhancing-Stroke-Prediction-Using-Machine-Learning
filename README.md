@@ -19,12 +19,10 @@ The dataset [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesori
 RandomForest
 
 ## 📈 Performance Metrics:
-|----------------------------|
-| Metric           | Value   |
+| Metric          | Value   |
 |------------------|---------|
-| **Accuracy**     | 94%     |
-| **F1 Score**     | 0.97    |
-|----------------------------|
+| **Accuracy**     | 85%     |
+| **F1 Score**     | 0.82    |
 
 
 ## Conclusion:
