@@ -15,6 +15,18 @@ The dataset [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesori
 2. **Statistical Analysis**: Conducted T-tests, Mann-Whitney U tests, and Chi-square tests for feature selection.
 3. **Model Selection**: Implemented SVM, Random Forest, and KNN algorithms.
 
+## 🏆 Best Model:
+RandomForest
+
+## 📈 Performance Metrics:
+|----------------------------|
+| Metric           | Value   |
+|------------------|---------|
+| **Accuracy**     | 94%     |
+| **F1 Score**     | 0.97    |
+|----------------------------|
+
+
 ## Conclusion:
 In this predictive analysis of the Stroke Prediction Dataset, I have implemented various key areas, such as feature selection via statistical tests, the Random Forest Classifier Machine Learning Model, and further performance assessment through good and reliable performance metrics. The high degree of correlation of all the selected characteristics with stroke indicates that risks are not unique but are multiple. Although the Random Forest model is impressive, including high ROC-AUC, there is an opportunity to increase the overall recall not to miss critical cases. Future work may be done to employ methods like class balancing, more hyperparameter optimization, or other algorithms to improve model results.
 
