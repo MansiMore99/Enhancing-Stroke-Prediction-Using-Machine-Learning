@@ -36,7 +36,7 @@ I'm always looking to improve! Share your thoughts and suggestions:
 - **GitHub:** [MansiMore99](https://github.com/MansiMore99)
 - **Linkedin:** [MansiMore](https://linkedin.com/in/mansi-more-0943)
 
-Also, Check out my articles on Mediam.
+Also, feel free to check out my articles on Medium.
 
 - **Mediam:** [MansiMore99](https://medium.com/@mansi.more943)
 
